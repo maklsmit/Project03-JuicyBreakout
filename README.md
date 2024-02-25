@@ -8,7 +8,9 @@ A brick breaker with different elements to make it more "juicy"
 ## Implementation
 Main menu music and background
 
-New brick type that takes two hits and makes a sound on the first hit
+New brick type that takes two hits and makes a sound on the first hit, present in level 2 and 3
+
+New brick type that does not break, only present in level 3
 
 Bricks make a sound, fall, rotate, and fade away when broken
 
