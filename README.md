@@ -23,9 +23,11 @@ End menu background and message depending on score
 
 ## References
 Background - https://opengameart.org/content/synthwave-neon-desert-beach-background
+
 Main menu music - https://opengameart.org/content/chill-lofi-inspired
 
 ## Future Development
+None?
 
 ## Created by
 Makena Smith
