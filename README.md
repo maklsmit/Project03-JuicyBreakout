@@ -1,15 +1,25 @@
 # Project03-JuicyBreakout
 
-# Project Name
-Context and date
+# Juicy Breakout
+2/24/2024
 
-Description
+A brick breaker with different elements to make it more "juicy"
 
 ## Implementation
-Which features you included
+Main menu music and background
+New brick type that takes two hits
+Bricks make a sound, fall, rotate, and fade away when broken
+Ball changes colors and has a comet trail
+Ball makes a sound when it dies
+Paddle makes a sound and has particles when the ball hits
+End menu background and message depending on score
+
 
 ## References
+Background - https://opengameart.org/content/synthwave-neon-desert-beach-background
+Main menu music - https://opengameart.org/content/chill-lofi-inspired
 
 ## Future Development
 
 ## Created by
+Makena Smith
